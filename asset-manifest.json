@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/raect-live-website/static/css/main.42ba96b2.css",
+    "main.js": "/raect-live-website/static/js/main.0b16508c.js",
+    "index.html": "/raect-live-website/index.html",
+    "main.42ba96b2.css.map": "/raect-live-website/static/css/main.42ba96b2.css.map",
+    "main.0b16508c.js.map": "/raect-live-website/static/js/main.0b16508c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42ba96b2.css",
+    "static/js/main.0b16508c.js"
+  ]
+}
